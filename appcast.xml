@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MindMac</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 13 Apr 2023 23:53:41 +0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://mindmacapp.github.io/MindMac_1.0.0.zip" length="15121774" type="application/octet-stream" sparkle:edSignature="y9yfcAoXUYkIBpPxu3Sng5J8yZAwmKCGlk4l2O4j+VPT6bTTPpvH8CeSbB0qU1VujQ1+qyPtUCNcznDkB9B1DA=="/>
+        </item>
+    </channel>
+</rss>
