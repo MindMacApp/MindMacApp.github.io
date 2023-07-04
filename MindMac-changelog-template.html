@@ -1,0 +1,57 @@
+<h1>MindMac 1.1.0: Improve GPT-4 experience and update some minor fixes</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+  <li>Separate accounts into Profiles like “Work” and “Personal”</li>
+  <li>Create and manage server-side filters</li>
+  <li>Assign a unique color to accounts</li>
+  <li>Manage your server-side vacation responder</li>
+  <li>Set up custom notification schedules (working hours) for each profile</li>
+  <li>Create Focus Filters to only show notifications from certain profiles during a system Focus</li>
+  <li>Google contact colors synced for monogram profile images</li>
+  <li>Optional system menu bar extra to quickly view unread messages</li>
+  <li>Star and label drafts from the compose window</li>
+  <li>Select messages in the conversation view</li>
+  <li>Support for decoding application/ms-tnef (winmail.dat) attachments</li>
+  <li>Support for paid licensing and activation</li>
+  <li>Support for custom variables in Templates</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+  <li>Setting to choose “Stable” or “Latest” app updates</li>
+  <li>Setting to choose the default email client</li>
+  <li>Banner prompt to make Mimestream the default email reader</li>
+  <li>Crash-loop detection and a “safe mode” to check for available updates</li>
+  <li>Support “Open in Background” for browsers other than Safari on macOS 13.2+</li>
+  <li>Confirmation prompt before enabling Importance markers for the first time, to avoid user confusion</li>
+  <li>Searches now always start scoped to All Mail</li>
+  <li>Menu item and shortcut to load remote images</li>
+  <li>Refreshed UI for the calendar invite banner&#39;s agenda section</li>
+  <li>Refreshed styling of code blocks</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+  <li>Delayed unsnooze operations after system sleep</li>
+  <li>Incorrect snooze suggestion on Mondays for “Next Week”</li>
+  <li>The compose window’s signature reverts to the initial signature when the “insert signature before quoted text”
+    setting is changed</li>
+  <li>Messages with illegal Content-Type headers don&#39;t display content</li>
+  <li>Pressing right-arrow should exit inline code at the end of a line</li>
+  <li>Pressing tab at the end of a mention or link should exit link</li>
+  <li>Multiple compose windows may open when sharing more than one file</li>
+  <li>Broken images can be posted into the local signature editor</li>
+  <li>Signature popup isn&#39;t clickable when the window size is small</li>
+  <li>Copying the conversation title can include UI elements</li>
+  <li>New Gmail URL format (the previous format is no longer working reliabily)</li>
+  <li>Parentheses in names should be ignored when generating initial monograms</li>
+  <li>Messages with remote content can be printed blank</li>
+  <li>Move to Inbox from Trash lags on actually moving messages</li>
+  <li>Pasting an email address shouldn&#39;t linkify selected text</li>
+  <li>Turning text selection into code should de-smartify quotes</li>
+  <li>Paste as quotation doesn&#39;t always work</li>
+  <li>Messages don&#39;t get reformatted for dark mode if they contain `color-scheme: light;` style</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🧹 Cleanup</h3>
+<ul style="margin: 0;">
+  <li>Removes support for macOS 11</li>
+  <li>Snooze suggestions should default to 8AM to match Gmail</li>
+</ul>
