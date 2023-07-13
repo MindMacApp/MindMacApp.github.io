@@ -3,6 +3,29 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.3.2</title>
+            <pubDate>Thu, 13 Jul 2023 23:13:02 +0700</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.3.2: New keyboard shortcuts added - UI improvements</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Add customizable keyboard shortcut Control + Space to bring MindMac to front while run in background</li>
+    <li>Add customizable keyboard shortcut Command + J to change GPT model quickly </li>
+    <li>Add customizable keyboard shortcut Command + G to focus Prompt editor</li>
+    <li>Now you can type in the prompt editor: <b>/p</b> to call prompt template list, <b>/o</b> to call occupation list, <b>/c</b> to call context list </li>
+    <li>Add keyboard instruction at the footer of prompt template list, occupation list, context list</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.3.2/MindMac_1.3.2.zip" length="13140882" type="application/octet-stream" sparkle:edSignature="thGwyWNcXaEq22O+OWC+i2hamPNx+f8+paEzLSap1/xm6Vr6br0xGmoFnJPY6iYyeiv5hq7ZAjITwphMisb3Cw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.3.2/MindMac6-5.delta" sparkle:deltaFrom="5" length="1582898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="/McBCOEaqUTESm2pqGU3E+kf7WC9sTuuraof9j6JqtZiPm/Hksb8fv97WVuzuiAWnT6SjsJJ5yokMrpbKPBhDA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.3.2/MindMac6-3.delta" sparkle:deltaFrom="3" length="3180666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="9OzKqOMEiY+SHLH0IRpBiq0hOb7G4FSl2onUXrTzAhUFLQ7ByW1BhkRQijiglzjthOnfZ/4oY5oku90pF7/vBw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.3.2/MindMac6-2.delta" sparkle:deltaFrom="2" length="3588706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Z5y5guRdLb88wZmFKhYZuN2yp5PTwuz+glYnfbz7Q40Kxq5I0SlR0fYQTP+ji//zvPWNc9T/qak52g/mPaMCBQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.3.2/MindMac6-1.delta" sparkle:deltaFrom="1" length="6937390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="3nt/wt3092jssRotMa/x0xR7E/j/zh8Bf/YV7/EvXG1NsyHKfqh558S6DDJPz+/hn+rccP58DhwClSEODpy2Cw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.0</title>
             <pubDate>Wed, 05 Jul 2023 00:19:05 +0700</pubDate>
             <sparkle:version>5</sparkle:version>
