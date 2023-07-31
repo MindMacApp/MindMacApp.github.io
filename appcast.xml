@@ -3,6 +3,44 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.4.0</title>
+            <pubDate>Mon, 31 Jul 2023 21:20:34 +0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.4.0: Anthropic Claude, multiple API endpoints and unread notification</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Support Anthropic Claude models: Claude Instant and Claude 2</li>
+    <li>Support multiple API endpoints and able to switch between them while chatting. Find more at Settings &rarr; Account &rarr; API Endpoint & Proxy</li>
+    <li>Add unread notification with indicator in sidebar to monitor unread messages</li>
+    <li>Add hotkeys Option + ↑ (⌥ ↑), Option + ↓ ( ⌥ ↓) to navigate question history while prompt editor active</li>
+    <li>Add message information. Just hover on message and press information button</li>
+</ul>
+
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Now you don't need to restart MindMac after modifying keyboard shortcuts</li>
+    <li>UI improvements: rearrange the toolbar buttons to improve visual appearance</li>
+    <li>UI improvements: add Stop hotkey text in Inline loading indicator</li>
+    <li>UI improvements: update API adding form and license activation form</li>
+</ul>
+
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Fix issue hotkey Shift + Enter (⇧ ↵) cannot be used in other apps while MindMac is in background and Inline mode is off</li>
+    <li>Fix issue app crash when press on submit prompt hotkey while using Inline mode</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.4.0/MindMac_1.4.0.zip" length="13952399" type="application/octet-stream" sparkle:edSignature="uA4VnV9jMTjaMhd4DZ2HvJkDFErJ0pjs/1I3KKWvTmbC7hV5ZTOCICceBvT8phPFs9hox97q3onnGf2xzfh6DQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.4.0/MindMac8-7.delta" sparkle:deltaFrom="7" length="2650686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="dU7UWY30jEBKWS1hnAH/ewWkoM9w4sZiZ1wh5I1EES0PO9MeyzMj+1uQh3g0RGJmh3m2EE4tPV7fnoi7EvIwDg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.4.0/MindMac8-6.delta" sparkle:deltaFrom="6" length="2665266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ftdOGzF2LY1hTEYiRy39qOsTjCfr964muCa24Ptz3i6+uk6cx+2vBqY5LbxPDQm/w3EdBl2DZBsqJ/8f1KK+DQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.4.0/MindMac8-5.delta" sparkle:deltaFrom="5" length="2958422" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="oF1IktocCJX7xU4Jspg+ES7ovJNdLPtXbW6wHdDUi3yJ6dr4cNJ1q34zDC+TyEmp1/ujVll2asQubL7oJeLjCQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.4.0/MindMac8-3.delta" sparkle:deltaFrom="3" length="3952170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="SOmlFH9ljgIjyhOPAE5WLrcKQhQlfaoh+yiH81p5H+FvRkD1wkH2/wHv5DcGmh2zPLEtU5SugP903PtdIrV6DA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.4.0/MindMac8-2.delta" sparkle:deltaFrom="2" length="4311014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xEkKAeAj/L2QdW1/2eghNOX0tfcZRUiKYmLyTev0xa2H+M9NxzNbMVlIlvzcnI7Rl8DJeraU8ou9YlqB82+9Dg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.3</title>
             <pubDate>Sat, 22 Jul 2023 13:05:03 +0700</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -48,47 +86,6 @@
                 <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.3.2/MindMac6-3.delta" sparkle:deltaFrom="3" length="3180666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="9OzKqOMEiY+SHLH0IRpBiq0hOb7G4FSl2onUXrTzAhUFLQ7ByW1BhkRQijiglzjthOnfZ/4oY5oku90pF7/vBw=="/>
                 <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.3.2/MindMac6-2.delta" sparkle:deltaFrom="2" length="3588706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Z5y5guRdLb88wZmFKhYZuN2yp5PTwuz+glYnfbz7Q40Kxq5I0SlR0fYQTP+ji//zvPWNc9T/qak52g/mPaMCBQ=="/>
                 <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.3.2/MindMac6-1.delta" sparkle:deltaFrom="1" length="6937390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="3nt/wt3092jssRotMa/x0xR7E/j/zh8Bf/YV7/EvXG1NsyHKfqh558S6DDJPz+/hn+rccP58DhwClSEODpy2Cw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.3.0</title>
-            <pubDate>Wed, 05 Jul 2023 00:19:05 +0700</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h1>MindMac 1.3.0: Inline mode ready - New interface</h1>
-<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
-<ul style="margin: 0;">
-    <li>Add Inline mode. Now you can create content or ask questions in any other applications. No windows switching. Very fast.</li>
-    <li>Add Inline configuration. Find more at Settings &rarr; Inline</li>
-    <li>Add customizable keyboard shortcuts. Find more at Settings &rarr; Shortcut</li>
-    <li>Add notification option to notify when response arrive while app is in background</li>
-    <li>Add stream response option</li>
-    <li>Add menu bar option to quick configure some options</li>
-    <li>Add Restore Defaults option for Settings &rarr; Configuration/Inline/Shortcut</li>
-    <li>Add shortcut to increase/decrease message font size by Command and +/-</li>
-    <li>Add shortcut to go back previous question by Up/Down arrow</li>
-    <li>Support new GPT-3.5-Turbo-16K model</li>
-</ul>
-
-<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
-<ul style="margin: 0;">
-    <li>UI improvements: update background color</li>
-    <li>UI improvements: update buttons' color</li>
-    <li>UI improvements: update background color</li>
-    <li>UI improvements: update UI for prompt template and occupation list view</li>
-    <li>UI improvements: update localized text for all supported languages</li>
-</ul>
-
-<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
-<ul style="margin: 0;">
-    <li>Fix crash problem when loading code block</li>
-</ul>]]></description>
-            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.3.0/MindMac_1.3.0.zip" length="13127933" type="application/octet-stream" sparkle:edSignature="qiHqNS9YUqG7+c2jlbbl+CdDgn5TQ31se/axLutREMZ/4AWp1wpezIZbBQpZDskehyosyvqqjWFTpMpeU9b3DQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.3.0/MindMac5-3.delta" sparkle:deltaFrom="3" length="2928906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xGmYL+5m7pqGtfutrRPGILKplY8n6RS1nxFC+2uC8Rj6RmJ2kUQPFVi9qCVhQg59CTdg2NBH8JyE7rEJxPrLDg=="/>
-                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.3.0/MindMac5-2.delta" sparkle:deltaFrom="2" length="3398070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="LwZk86h07Y/YafBJz8U4E/j0VPVll2VYCXoSlF1zLgOuOyNyNC+np9fJ/VimwiCkpwyVhHoqiCjTAMO4SZ0WDw=="/>
-                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.3.0/MindMac5-1.delta" sparkle:deltaFrom="1" length="6756990" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="J5fBNhCCx6mu34CKpURMsSLBFBv+L8qbXvZMeJ44uJz3yOo+t7tqZCUglFUYlzIQkfpU7cG1xpJHRrjnYu8JBw=="/>
             </sparkle:deltas>
         </item>
         <item>
