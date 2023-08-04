@@ -3,6 +3,30 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.4.4</title>
+            <pubDate>Sat, 05 Aug 2023 00:29:23 +0700</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.4.4: Update some minor fixes</h1>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Updated code to switch to a different API endpoint if the current one is removed from Settings &rarr; Account &rarr; API Endpoint & Proxy</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Fixed bug that prevented the correct model from being selected after adding a new API endpoint</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.4.4/MindMac_1.4.4.zip" length="14020630" type="application/octet-stream" sparkle:edSignature="QGlQP3/8DPsyo3hIRfrcfQLNS4Lg0Ka6APuqSIBCO6CB7SuBxoFCpygKJyordJE8oxIlFl5pxxvfIRu1s6fwCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.4.4/MindMac12-11.delta" sparkle:deltaFrom="11" length="696158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="rqIbY2cxcl6I9VX7183qMHkmT2UR68Ay7b2Tn03xpHbjC9szwGt3V7HBCI7a1wFTFxeNq/18uY/LckrGH8QgAQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.4.4/MindMac12-10.delta" sparkle:deltaFrom="10" length="1444282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Hrff1WkvTicpvkNvPwNzRLa7aytmPm701KXe7iPYG3TRVtWjQyUmaLNXEhBI93nKF9vLKQ5Yz+oURmVy4of0Bg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.4.4/MindMac12-9.delta" sparkle:deltaFrom="9" length="1456582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="VXtGGT61LcdSTplxfSWLzRxVHin6Kij+aacW6tDQiPQ7sVVvlqFlioHNanbnkBVqWeYU7NQ+tjFGN1Yc1sc1BQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.4.4/MindMac12-8.delta" sparkle:deltaFrom="8" length="1457654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="NtaI0kRtNUOOnpoAxAhek18qXotah6y336FYC5EUNXvJ0V7Ekw1WfTLk3cuQkeSRKWwsUgyXNoKBxhfTy5vXCg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.4.4/MindMac12-7.delta" sparkle:deltaFrom="7" length="2741706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="6HhKYTcUKvrDMg0/5n4RgxOlGNP+jombVZRCIbZKI/pLoBczzIh6gOLqdD0Bm10gFgIN1f+0VSHMO1XhY5ogBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.3</title>
             <pubDate>Fri, 04 Aug 2023 22:35:32 +0700</pubDate>
             <sparkle:version>11</sparkle:version>
