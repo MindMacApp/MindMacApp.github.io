@@ -3,6 +3,36 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.5.1</title>
+            <pubDate>Tue, 15 Aug 2023 16:17:32 +0700</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.5.1: Support fine-tuned model, model management and some minor fixes</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Added model management feature, allowing users to choose which models should appear in the toolbar.</li>
+    <li>Added support for fine-tuned models for OpenAI and Azure OpenAI.</li>
+    <li>Fully supported local LLMs through LM Studio or LocalAI.</li>
+    <li>Added a setting option to show/hide the icon in the Dock. This can be found in Settings &rarr; Configuration &rarr; Others.</li>
+    <li>Added a setting option to show a confirmation dialog when deleting a message. This can be found in Settings &rarr; Configuration &rarr; Others.</li>
+    <li>Added a setting option to automatically copy the response to the clipboard. This can be found in Settings &rarr; Configuration &rarr; Others.</li>
+    <li>Added more options for GPT trigger command, prompt trigger command, and Inline setting trigger command.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Corrected the incorrect model code name for certain models in OpenRouter.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.5.1/MindMac_1.5.1.zip" length="14314295" type="application/octet-stream" sparkle:edSignature="zz8+1VK1gqgi1Cu5ozPvCl7ePTb7Ei4arxSaTu4IYS1ZSJv71NTPWJHQGKx9DemLW9PCUWqGE8PmVoFFeJ3WDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.5.1/MindMac15-12.delta" sparkle:deltaFrom="12" length="1941462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="XspOY9stZDPG/f/sUjOPTxQ4asd90F0qm+U8jZV6g7DmYAGsqJ7yPDdlWF2V9UbQb2M6MSPMobBiIpJj/pHZBw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.5.1/MindMac15-11.delta" sparkle:deltaFrom="11" length="1943426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="QlpoQHv3ollXbxq+Agdf1wLePXcX4F6ydgr8pkw9jmCfSupkWEP1JSftxvy7EYEv7ergmIYYnRoza8Bgd7ywCw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.5.1/MindMac15-10.delta" sparkle:deltaFrom="10" length="2098038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="9hy7nMcXdS088s2UXUpf6mUxNmUTncPGzbSPt4mqXefRAAGJuc4TeDcPPla4XvzBAnBv1wrSM8VOdt1DDZHICA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.5.1/MindMac15-9.delta" sparkle:deltaFrom="9" length="2118226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="vIn+iVjuFqpWsfICCAb8a+F0jGQ89/Jpe6t7lL5/JIDyBZImpjCs96TIdsosL7MbNqS/FGbJAkmQ+5EAqO/ACA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.5.1/MindMac15-8.delta" sparkle:deltaFrom="8" length="2119098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="esDLTizhCI3SvDv3KqwJ7mHMwsX3+qp4hQUKk1SWGBY2aN1h/MhISPzy5DqOkqmffRXv6773mRODbt/yLsnLAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.4</title>
             <pubDate>Sat, 05 Aug 2023 00:29:23 +0700</pubDate>
             <sparkle:version>12</sparkle:version>
