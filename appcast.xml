@@ -3,6 +3,26 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.5.3</title>
+            <pubDate>Thu, 17 Aug 2023 14:16:17 +0700</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.5.3: Fix critical crash issue</h1>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Fixed a critical crash problem that occurred when sending prompts in version 1.5.1 after upgrading from version 1.4.2 or earlier.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.5.3/MindMac_1.5.3.zip" length="14317117" type="application/octet-stream" sparkle:edSignature="jMM0jd8XNVa+egIKLURS/zKVUYHqNwMvNCcvJYpjqXVmNCZlz5WqE7Jl1rURdEesMEdwC7ux9MaaOyfO4EliBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.5.3/MindMac17-16.delta" sparkle:deltaFrom="16" length="192022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="aGV/WmozC3hMTKj4oz9xTeLsNG6/9HPbwRYgfiwpMirBleEfCpUU1N4gturATIGvBWr1Gtm5EmDqlyI11wcaAw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.5.3/MindMac17-15.delta" sparkle:deltaFrom="15" length="913150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="d1J0aItbeFc2PgAJuUPlhiHDufm+JGqxcTrDqkuvzO2zTD37N5ow5sjJXZp+1mfVcZUTSOLXdpX+rbPkHzZ5Bg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.5.3/MindMac17-12.delta" sparkle:deltaFrom="12" length="1959298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="AF86FiiQE+u+nbor3liVEv/PoGpIi9/T2+pK+691ckXsSMQk7tQ+qJUgUPavPyQAWrc2FF3B7xQIoXolqAUbBQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.5.3/MindMac17-11.delta" sparkle:deltaFrom="11" length="1971794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="0qDYGzd6oz4Vb/FdmNTgM7ZQ+Grm6uv2zZZ8AZ8K14V5gAJzaAIwpSyq987GdiJ2j3QkeHfNENvbPncuwRFGAA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.5.3/MindMac17-10.delta" sparkle:deltaFrom="10" length="2105678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="hpcD1h1jSxvN+mPzcSOgFzXcXi1MnAopVV9cDPMYxNo/UJ1zOSsO89/LDxxiM/WILNUAuKK7LtHHN8F5pynGAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5.2</title>
             <pubDate>Thu, 17 Aug 2023 13:08:21 +0700</pubDate>
             <sparkle:version>16</sparkle:version>
