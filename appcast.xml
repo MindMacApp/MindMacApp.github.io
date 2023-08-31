@@ -3,6 +3,36 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.6.0</title>
+            <pubDate>Thu, 31 Aug 2023 16:35:29 +0700</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.6.0: New sidebar & performance improvements</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Introduced a new sidebar for improved conversation organization.</li>
+    <li>Added support for previous versions of OpenAI models: gpt-3.5-turbo-0301, gpt-4-0314, gpt-4-32k-0314.</li>
+    <li>Implemented the ability to modify the font size of code blocks.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Enhanced overall performance of the application, resolving lag and unresponsiveness problems.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Modified the accessibility permission prompt to only appear during the initial launch of the app.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.6.0/MindMac_1.6.0.zip" length="14239709" type="application/octet-stream" sparkle:edSignature="+VtaReqZksByH0HTSf/A+4TNyLkVV0Hd/hb7sbT1bwtxF6WODVjkf/j2+k8D40AyhRj5kjsbiWDlhiUwKsMKCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.6.0/MindMac19-17.delta" sparkle:deltaFrom="17" length="2596134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="FYDOD94Emqad7tfbvr9ZmjaVqx7HGeUvcFTzI4rKedl8sJ1tbrbPd1uhGV7daYPPzTW+nQVd9g+5aNTagcGvDg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.6.0/MindMac19-16.delta" sparkle:deltaFrom="16" length="2600814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="X6MIpjSL4k2MCjk5gP0xRUbE29zRAxCrC0ILgrlDhmjXBf5dRxjpLRJ3qOvpCTzOYWDA2AksrN/ckpIQ0StaDQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.6.0/MindMac19-15.delta" sparkle:deltaFrom="15" length="2625554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="54ly66KVu9Ju4hD9gUQflJosQvPnJk8NknrX/8HO7qWOfM1TcherE2VLkYiCalp6JQMov3Ia0xBFWYTvrCgrAQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.6.0/MindMac19-12.delta" sparkle:deltaFrom="12" length="2880350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Kv7r5i1tKgf38gAlLrusspy0jbpYWEW+o77+inUAp4XBqz0AjGoDLTePkgUr8YtKo7U8bpXT+132clNamF1CCA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.6.0/MindMac19-11.delta" sparkle:deltaFrom="11" length="2884494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="g1VVt1ZKwlKrdPdAA+mjzDPFxX8SnIZ468yfowCg2VGPyt/kmORR7js/mC1SuKX0nhSaCa/wz0XZxwYvEc8xAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5.3</title>
             <pubDate>Thu, 17 Aug 2023 14:16:17 +0700</pubDate>
             <sparkle:version>17</sparkle:version>
