@@ -3,6 +3,32 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.6.2</title>
+            <pubDate>Sat, 02 Sep 2023 14:57:54 +0700</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.6.2: Scrolling improvements and bug fixes</h1>
+
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Enhanced scrolling effect when receiving stream response.</li>
+    <li>Set default conversation sorting to be by creation date in descending order.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Resolved issue where questions were being added to the wrong conversation when asked in a newly created conversation.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.6.2/MindMac_1.6.2.zip" length="14241769" type="application/octet-stream" sparkle:edSignature="x5+dPZCIfEzML797ydImOtx6kuxCNZ7W+gHvpYijgTQFHACBzkNz1HfzoDnSnRWrA3yfHbLr3mvPV8FpJh8CCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.6.2/MindMac21-19.delta" sparkle:deltaFrom="19" length="1048294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="z2BJQXXqJAxo9LfDg/urmsLKM+oHoXzCl50DtLPyboJhXRx61fnX0Dj0AEEhxiy4gBSVN489styF0OSYRoXvAw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.6.2/MindMac21-17.delta" sparkle:deltaFrom="17" length="2596002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="XjswCBPx9Y+cnvAUipvs5dQicgQ6GDOMGJCRYjHTREVH+1DevhKX2IaIwpmDK1lziFnee0AQyisPOP1aw0gmCA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.6.2/MindMac21-16.delta" sparkle:deltaFrom="16" length="2599858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="k/WL1PqUb0PYYQ8Q5vZStD3iTjP4j0ycKHUWFCb9fuPztdGuTm0pSLRwtFRnWbAE/VEXMvWXrQ/gy2tL/rtsAw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.6.2/MindMac21-15.delta" sparkle:deltaFrom="15" length="2627074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="TMcwMgApeNESNXMdU4feWnct3L+UmWB+wx9rt1pGJirYRqb05fMGkVcO85UgIe1RpkXjKNkDNbA1ov5csfZKAg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.6.2/MindMac21-12.delta" sparkle:deltaFrom="12" length="2867614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="lp7Fx3P3RN4FeIUsuePbK2XlOQi354KN8/uAJKiCMpWJPa23fJOeoBsuvKjqEfrTk4CtBN5rYI7zqmTwRt04CA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Thu, 31 Aug 2023 16:35:29 +0700</pubDate>
             <sparkle:version>19</sparkle:version>
