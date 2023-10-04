@@ -3,6 +3,31 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.7.1</title>
+            <pubDate>Wed, 04 Oct 2023 16:27:44 +0700</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.7.1: Bug fixes</h1>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Improved the text color of the "Apply" button in the Prompt list, Occupation list, and Context mode list to enhance visibility and user experience.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Fixed the issue causing the application to crash when deleting a conversation using the keyboard shortcut.</li>
+    <li>Resolved the problem with the context popover not remaining open when the context mode was set to either the last or first three messages.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.1/MindMac_1.7.1.zip" length="14693439" type="application/octet-stream" sparkle:edSignature="8VPOCYMTpwkb1RZNkvuAgdmsPg/Qqc8XBcF4zrT20YN4tlGQut3t5QY1X/SNzLJxVxgkU0dIaksqNs1DwtwaDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.1/MindMac23-22.delta" sparkle:deltaFrom="22" length="5600366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yFRQemb3sm/v7ftyH1n4BlTB/z1WoQD1hlVX4jQyhLIprUEsZ/E3aWY31ypZqvsnSd04RU2CxbzgOcTTvh+7Ag=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.1/MindMac23-21.delta" sparkle:deltaFrom="21" length="6008662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="uLErguiQNkPa8rjS+JTKeV3os+FJTgK5z5byJ2tupX0sX7HdQsSFFGaB0Xnfg7wBXB54HJBn6ptkYrL9TjGdCw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.1/MindMac23-19.delta" sparkle:deltaFrom="19" length="6014018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="efOR8JVWvVwaJzdDoNpje8lRoaq/8+hERMAMBMoGrOZZuipk0O/rQDSfl/ghfTE3mCReIrzBH4ebI7C8XUoACQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.1/MindMac23-17.delta" sparkle:deltaFrom="17" length="6375542" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="GOWTsoA0AhE9i0JibrfCo3HGV6CRxtSQhRzxHIkPRz1m67W3Ptu5haapPyAX8Hs5KnWbCg8Jvr3h5FPYipVFBA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.1/MindMac23-16.delta" sparkle:deltaFrom="16" length="6374906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="2x+0TFoG/g+hZi5/AJPN94m4MB1CFZeQQYjp60Tx0LdRCPaSoc8kU0Ed13lDuialHUErlMSDeu261yrGTfoZBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.0</title>
             <pubDate>Fri, 29 Sep 2023 22:52:07 +0700</pubDate>
             <sparkle:version>22</sparkle:version>
