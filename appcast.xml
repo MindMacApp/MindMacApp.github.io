@@ -3,6 +3,30 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.7.2</title>
+            <pubDate>Fri, 06 Oct 2023 23:21:40 +0700</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.7.2: Code block improvements</h1>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Enhanced the positioning of the code block copy button.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Resolved the problem where code blocks occasionally display "undefined" for certain languages.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.2/MindMac_1.7.2.zip" length="14752973" type="application/octet-stream" sparkle:edSignature="VO4QFNEh6L8dNy6+xlgRdIMvTXsU7qnBqsII5plQgjhO3hkXlpb8DayCJvZmzY8i6Q+50kIEa9jI/VeEuPGoDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.2/MindMac24-23.delta" sparkle:deltaFrom="23" length="1425198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="95KXVDHxROdbf7Y4UfaIASkPeiVFjJ4V57cAv6VNQMSLcOyFRxYPYsyAe2bGGFF+Ig6t2T99u+5xPx1fptvuCw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.2/MindMac24-22.delta" sparkle:deltaFrom="22" length="5773582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="dn+wcttZ7gedwGFWammOPnpmLJ7iCG1CEzgUens3PiDy3/sVeKhf6jWBtey2nZ45P2xgfY8W4wHmvjmL1VK4Cw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.2/MindMac24-21.delta" sparkle:deltaFrom="21" length="6105086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="U6/W0+Ar4NhXxx12h17b9AjJj2uFovEu7BPSiuLrrubtlnUcBC1PlS4EXKp9YIJ4ZUPheZatN1QEk2HeHpAuBQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.2/MindMac24-19.delta" sparkle:deltaFrom="19" length="6113506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="aJRhyADGGWKQ7lok8STeDSP5/f78+nHVdVo0jtIu4PlhWWQtBBHIrPPjGptetthhs4+KMpoj7h7Np3AkThbRAQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.2/MindMac24-17.delta" sparkle:deltaFrom="17" length="6427222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="k8SRHRYxqu63KWY7h3A9km9zSV0oOxVjKCNBhSJ/dG7xVNdUrt46b+LymPE2xkHMGdcaft2rqgRmjBBVCm4aCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.1</title>
             <pubDate>Wed, 04 Oct 2023 16:27:44 +0700</pubDate>
             <sparkle:version>23</sparkle:version>
