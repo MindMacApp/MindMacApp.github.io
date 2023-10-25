@@ -3,6 +3,41 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.7.5</title>
+            <pubDate>Wed, 25 Oct 2023 09:36:10 +0700</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.7.5: Output preferences & UI improvements</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Introduce a new feature that allows users to customize the output preferences for both the global and conversation profiles. This includes the ability to choose the language, tone, style, and format for the responses.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Decrease the minimum width of the sidebar to improve the overall layout.</li>
+    <li>Reduced the margin of the input field for prompts to optimize space usage.</li>
+    <li>Updated the color of the filter and sort buttons for improved visibility and aesthetics.</li>
+    <li>Updated the color of folder and conversation icons for better consistency and visual appeal.</li>
+    <li>Allow users to scroll upwards while receiving responses in stream mode to easily view previous messages. Please notice that macOS 14 Sonoma offers a more enhanced visual experience for scrolling animations compared to its predecessor, macOS 13 Ventura.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Resolved the issue where the text caret would jump to the end when pressing Shift + Enter in the middle of a prompt text, specifically when using the "Enter to Send" feature.</li>
+    <li>Fixed issue where prompt template was not inserted correctly in certain cases. The problem occurred when applying a prompt template once and then removing it using the Cmd + A command. Subsequent attempts to apply the same prompt template were not
+        being recognized.
+    </li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.5/MindMac_1.7.5.zip" length="14931376" type="application/octet-stream" sparkle:edSignature="VGB8lu6ZyDtiSroKNXSzdyy+1uRBefucbvHn+4wkctxKZak6SNa7LC1cQYID7cFUD7hg3AfMZF+p3r1aKoDoAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.5/MindMac27-24.delta" sparkle:deltaFrom="24" length="1957266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="uuooS8XwMgj2XmBwlH1a6+2kaWwaebXEKxXdcQS5czw60im2+jST3cSkzzDJoq5mqqEbLh5Yoo2quKvfFNk/AA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.5/MindMac27-23.delta" sparkle:deltaFrom="23" length="2136238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="UDu8kBHQo1IhwZciqC9qi/JxRo+pC3C8bCc4ytHjtnt0GLY8ikwkPD/109bgWt9R0dZnGnH7M6/yuOLWTHW5Dg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.5/MindMac27-22.delta" sparkle:deltaFrom="22" length="6096018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="38Xs2bS5Bs42pi0akPq9QipBQRJR9MGYwCgGVbB6OCnbn6J39AjSyY2O8qlSt09ojUFcueoAbgeKezcaP3oHBg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.5/MindMac27-21.delta" sparkle:deltaFrom="21" length="6307858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="KCR88NkSopkqJDsUosgfAnRU2zwludjW2iGffQ0IODsS3WuJod+Kn0V2Xhb2P0oXWGQTVW8cQlyD1ONEfbqsCQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.5/MindMac27-19.delta" sparkle:deltaFrom="19" length="6314902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="2x6JneHvgu3mWN0twbGhtO58uDIvR9/Re1fvv+XndjxrY9POZIYVSwZNCWP5TdLVw9lDN+DUIJ4qWMMzgouTBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.2</title>
             <pubDate>Fri, 06 Oct 2023 23:21:40 +0700</pubDate>
             <sparkle:version>24</sparkle:version>
