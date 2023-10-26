@@ -3,6 +3,30 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.7.6</title>
+            <pubDate>Thu, 26 Oct 2023 12:06:13 +0700</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.7.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.7.6: Performance improvement & bug fix</h1>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Enhanced the overall performance of the application.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Resolved the issue where the copy button was unresponsive when hovering over a message on macOS 14 Sonoma.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.6/MindMac_1.7.6.zip" length="14945204" type="application/octet-stream" sparkle:edSignature="rujGUCCH4EorRL+5Ghl5oZwHmxYXfoIKSwY62oqA2gAESFW+0H7wlpeXdhQk2Xwd3Naf1zIkRF4GOxoz/AQ3Ag=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.6/MindMac29-27.delta" sparkle:deltaFrom="27" length="1468974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="jjPYvUao2oXf8BcXNK1eLrvG/aeSgHxkwHZk1qjtWhP6h2NN1PsnAGIr9CTu6tn+J1p3CQRA7EM72ognQnymCA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.6/MindMac29-24.delta" sparkle:deltaFrom="24" length="2031454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="uLqY5yUynfo/lRKXYzlchE3kIFQ/ugaKl4tjq0qnWnIugiQRPh08oZrC3C3JYUwBfq+HQchmwciP/TS73RpPCA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.6/MindMac29-23.delta" sparkle:deltaFrom="23" length="2212574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="5bEYGGcpVeWJoJZN0qkoL393vbZc57b01fy1Rn9bceVQnmH3fpswEYasycPk8LorzVzjq5n4NZcJy+S4DPQNCA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.6/MindMac29-22.delta" sparkle:deltaFrom="22" length="6121418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="aMv/oiTB0UGG8X4tSqr2VwAPaG3acDUfST61xVTayAcwH3B2kHyEMQOL+hiW3aiz8e4p6keOgMctCDjuCp7vDw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.6/MindMac29-21.delta" sparkle:deltaFrom="21" length="6328474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xGsaDZwJXt5d+gsM8Fl7h8OolLIvrFKy3OGGV4lusGxYkg6KHX1PNnlw1UOleUftUKQc04TRI8MtnEhCJOQSBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.5</title>
             <pubDate>Wed, 25 Oct 2023 09:36:10 +0700</pubDate>
             <sparkle:version>27</sparkle:version>
