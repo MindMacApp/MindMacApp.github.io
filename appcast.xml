@@ -3,6 +3,38 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.7.8</title>
+            <pubDate>Mon, 06 Nov 2023 19:39:45 +0700</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.7.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.7.8: Adding model improvement & bug fixes</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Added feature that allows users to add a custom model for OpenRouter or a fine-tuned model based on gpt-3.5-turbo.</li>
+    <li>Added a toggle button in the toolbar to switch between markdown mode and text mode.</li>
+    <li>Added a button to switch between markdown mode and text mode for each message by hovering on the message.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Improved error handling by displaying clear error messages with detailed information when adding new API endpoints or new models fails.</li>
+    <li>Sorted items in the output preferences picker in ascending order.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Fixed an issue where the response sometimes contained weird text chunks when the temperature was set near "More Creative".</li>
+    <li>Fixed an issue where the prompt list would show slowly when typing "/p" in inline mode.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.8/MindMac_1.7.8.zip" length="15055597" type="application/octet-stream" sparkle:edSignature="MgEcud3Qhj4+LdM1FPArJwsbxfPI+3J5ZkCOUesfDEXYyaY2hGrEjpWmiOeFkxSp4TvN+CypBVQb1p6TG6nQDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.8/MindMac30-29.delta" sparkle:deltaFrom="29" length="1729814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="zJskAsfc+Q9O8oOCPZ5aNU2pFf0H2k6RCf/lTdCfSSHeePnGjM1tfDpVMRAoCpvfRfw60oxkYP9WeEIQQiy4CQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.8/MindMac30-27.delta" sparkle:deltaFrom="27" length="1844522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="qAs2YTPZnGU++wlEX+LRNZUOsqLaaTxML5cjN5yAwCekaWc+CvuFHJhZLivHy8cxp3/xTw/dQZ4dCdKnAEH3BA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.8/MindMac30-24.delta" sparkle:deltaFrom="24" length="2286818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="q9lGseLg6BIKb39MJjvD0qTbSgckyHWTiNaRUcXGc6CkEzCBSAyM6uqlhiLKURwoXvUu49kmianeZuM7zOKIBQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.8/MindMac30-23.delta" sparkle:deltaFrom="23" length="2449482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="X2KcWTHtBB5q3Jl4w8twOJpuPXt1XWM3AZMVJj2V3x4hi+2WjlnUqm+KWCCJi9XzXVbvvk+sk8dYjMrUrkkgDg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.8/MindMac30-22.delta" sparkle:deltaFrom="22" length="6292574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nG9TcZ/Y1YJ07OOTnaWbD48I1GmazO7Y9x3js1Bq9zBL+FFjYzSZHXZPGferGVNvTj77/vLnF8KdPtDRX14HCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.6</title>
             <pubDate>Thu, 26 Oct 2023 12:06:13 +0700</pubDate>
             <sparkle:version>29</sparkle:version>
