@@ -3,6 +3,32 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.7.9</title>
+            <pubDate>Tue, 07 Nov 2023 16:48:02 +0700</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.7.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.7.9: Support new OpenAI models, option to hide icon from menu bar</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Integrated new OpenAI & OpenRouter models including gpt-3.5-turbo-1106 and gpt-4-1106-preview.</li>
+    <li>Introduced option to toggle MindMac icon in the menu bar for customizable display.</li>
+    <li>Added option to show window from the menu bar if the option to hide the icon from the dock was selected.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Utilized SettingsLink to display app settings in macOS 14 Sonoma for improved accessibility.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.9/MindMac_1.7.9.zip" length="15113298" type="application/octet-stream" sparkle:edSignature="jIf5nQS2h76qP8DF4ajZCMH2y0opyjmR97JIPJmtVUSFR371IBYGt/jdMAvPkEkafDc/eOysIj/oXHaPpvMtBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.9/MindMac32-30.delta" sparkle:deltaFrom="30" length="1538134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Wyw7NfdVF7cjcxZIcTW/xqYYrB6lJom8MNuRb1FV4WESxDJR2uVvwUTHbu+DfAbjLkwz0ixPaATedJSjpElMCQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.9/MindMac32-29.delta" sparkle:deltaFrom="29" length="1886698" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xlabqcDNjZR1tmvRxPURTP7Y0lahXhkAjkrMPyLRrtcVrTTC94TT7grTv5ilTXqh4cPiQ+dQ87qRHBpQDIoRDw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.9/MindMac32-27.delta" sparkle:deltaFrom="27" length="2017002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="bRKzOijUdUj5HXpA9Jvt61tPT6okRupNy7fKATh5up9BiAoQAS5iEva+diuOLKUcAcNtHVM4nbrdiyTmM5bRCA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.9/MindMac32-24.delta" sparkle:deltaFrom="24" length="2394206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="GEJhKGhtNznsoKEB7EtrUv8ir1sq23qZihZKBfCt/26m2G8e99T6NTVeXnZYXSCsqHDtu7hVFR1SjhsRHE6IAA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.7.9/MindMac32-23.delta" sparkle:deltaFrom="23" length="2530518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="QlYfJDL7Z15dH9++rxbMH+BnZqdHTd5jtHRgBbXQc4OcmQmrnzvP7XEJGuqhpP+fO16B7UafORZovfY9ly1LDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.8</title>
             <pubDate>Mon, 06 Nov 2023 19:39:45 +0700</pubDate>
             <sparkle:version>30</sparkle:version>
