@@ -3,6 +3,32 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.8.0</title>
+            <pubDate>Mon, 20 Nov 2023 17:30:34 +0700</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.8.0: Support DALL·E models for image generation</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Now supporting DALL·E 2 and DALL·E 3 models for image generation, with detailed output preferences including quantity, quality, size, and style. Users can also enable auto save to store images permanently, or open generated images quickly in popular
+        photo editors such as Adobe Photoshop or CleanShot X.</li>
+    <li>Introducing the option to collapse long messages for improved readability.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Resolved lag issue when pasting long text and typing in the prompt editor.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.0/MindMac_1.8.0.zip" length="15894974" type="application/octet-stream" sparkle:edSignature="tBxmi8gGaoMqbMDCeXTS6K7rEMwxOQEJ1+IHlI8wqkvzYbbv1in/q5ZcAM/LbD2FJCuSGpNRC6lEJOAXDaAuBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.0/MindMac34-32.delta" sparkle:deltaFrom="32" length="2584458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="6cKLI087/sNLYM7s+ZeeT7UZ2MOr3yi6bWHUBb7iceCMdiej1fxA/vowIUiuPPlx2SWzcS25tCWx/VCsmE25BA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.0/MindMac34-30.delta" sparkle:deltaFrom="30" length="2662566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="EEc+K8q/r/lV/dgcr908Vg0bGyFNDVGz7T2cJn2Fq9kwnkCOIFii7uxTtL1bNRgLcrFavbpaUEi1UsZ3zrkcAw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.0/MindMac34-29.delta" sparkle:deltaFrom="29" length="2895722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="X0/4FnKAajjg9FdMaJWsPIyge/hdVryoz5SBIU1ThCB2XjNFcTKkvbDBFL4uI7odTBkxhnjO5j1Nc3fVhC4VBA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.0/MindMac34-27.delta" sparkle:deltaFrom="27" length="2957898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="fxZeqaD4Hohf/+m83uA/Me9H5bjb2cwhqTKcRlGNAbnzm31ItIrkkFhv3qwKvGNrGHKB/pmJOYnBWlejbDQECA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.0/MindMac34-24.delta" sparkle:deltaFrom="24" length="3228878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="qgrnkOGL6yvIJk2b6ZhZ9Csfv8jYgNCXC3jdAfX5Q9P/aPTdblz9R5jj552/olfp0jHspyI5ZjwYNmEdNQWFDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.9</title>
             <pubDate>Tue, 07 Nov 2023 16:48:02 +0700</pubDate>
             <sparkle:version>32</sparkle:version>
