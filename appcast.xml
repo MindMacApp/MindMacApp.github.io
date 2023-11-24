@@ -3,6 +3,28 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.8.2</title>
+            <pubDate>Fri, 24 Nov 2023 21:51:44 +0700</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.8.2: Support Perplexity models & export conversation to PDF/Markdown/ShareGPT</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Added support for all Perplexity models.</li>
+    <li>Implemented a new feature that allows users to export entire conversation to PDF, Markdown, and ShareGPT.</li>
+    <li>Added full support for LiteLLM API for utilizing Stream mode with Ollama.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.2/MindMac_1.8.2.zip" length="16800176" type="application/octet-stream" sparkle:edSignature="7v/IPGXXliT/Qb9fvCePVcV4EnwBiefR/UD9rq/XzBSEBwjFIgpPU+5gUAnqdpOK/cGf8m4kA1h9iNixBjMnCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.2/MindMac35-34.delta" sparkle:deltaFrom="34" length="2668930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="5Fd2gjB9AawIOeq95fM1ANhBRW6zFsHmeLYqUAMv/97LVtX3DJkj98GzYrwlfGxUaQJwHFzoECoHuPZSRljEDw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.2/MindMac35-32.delta" sparkle:deltaFrom="32" length="3529510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Ak++eGawSSEqav30TMa8qO7e6pWEK/exKF+CdrehFL/YSVCvUuFYydFNhlxauGqBbnY33X33VAtIKYdQRjViAw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.2/MindMac35-30.delta" sparkle:deltaFrom="30" length="3586202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="2eTGL5xeztAKsnLxC1N5qAcApn17QlHL5JZOLQ/0w4I0lOrLEosbCSRp52jLejlEXmMZPnzSlF/jgoXChCJKDA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.2/MindMac35-29.delta" sparkle:deltaFrom="29" length="3768206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="TPchbOW7ofGKwywX9ItMkJqXSNk9tI+/S0r4XIiX0LRgvLBiVeBht7HE1zSqI3O4jTA2Ktx6eN/9MizP9E3TDA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.2/MindMac35-27.delta" sparkle:deltaFrom="27" length="3853650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="d0Vaf2f3cYF+Tcrql57mnmSrVFsBOgJtzVSi/Nfu3zdP3UgdrACFUBtYJaXzfOJbgMKOFQJ/ukE4P09f5+oACQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.0</title>
             <pubDate>Mon, 20 Nov 2023 17:30:34 +0700</pubDate>
             <sparkle:version>34</sparkle:version>
