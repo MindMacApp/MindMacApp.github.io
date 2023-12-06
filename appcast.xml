@@ -3,6 +3,37 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.8.3</title>
+            <pubDate>Tue, 05 Dec 2023 23:04:18 +0700</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.8.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.8.3: Support GPT-4 Vision & delete multiple chats</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Introducing support for GPT-4 Vision, allowing users to upload images and ask questions.</li>
+    <li>Added support for the DallE3 model for Azure OpenAI.</li>
+    <li>Implemented a feature to multi-select and delete conversations.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Updated Perplexity models.</li>
+    <li>Enhanced the appearance of links in Markdown mode.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Resolved a bug where Inline mode remained active after disabling and rebooting the application.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.3/MindMac_1.8.3.zip" length="17014353" type="application/octet-stream" sparkle:edSignature="zn6X2TiTsHvfxsvE1yeCNe9KefDGVmZahwX0BKgsHp/UValIpz6eDr+r75SWhp4Z3MS24miuge7CKLH+NvXEAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.3/MindMac36-35.delta" sparkle:deltaFrom="35" length="2176570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="wUPHK9BxXFZO7dBYbYMzi9Z6p0nkdXMeE3hnhEilqhG5EIUQilyH3Ltl3ATwIJJC8s+myM3OKEFHvu3qbFe8Bg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.3/MindMac36-34.delta" sparkle:deltaFrom="34" length="3188886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="r80/HqIDLYTFqIBZsG6TX4Ge5xz+uhagWk5GFVBDAv4gMWKgAu31tPlwTq8Q4gTF83fYcHoqUwwgdVySCnwjDQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.3/MindMac36-32.delta" sparkle:deltaFrom="32" length="3866682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="5T+YhrPfriEsA+7aHZEqAMj9DFxjXShV2EKpsgUh4kz5OgiWb0nSebpU2EL7YISJP4AJTYl8dgwb9TR4gaY1Dg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.3/MindMac36-30.delta" sparkle:deltaFrom="30" length="3916634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Kp0zLZCUMFnUU4zUp4Ixa0+wIMqpecV1GG1M+YG5AWlUsKwhGPPKOFTmJ3e8r5gFgSlvu7JODuBZXTF44mbgAQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.3/MindMac36-29.delta" sparkle:deltaFrom="29" length="4083522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="J8pscHPrqYfl0N5kCmf6HlZOkttU8GQ2tXmkNPh3C+o/dWVV1qqwQZMaQyoua3gvaJ6XQQ8K2ICNc4x3kJrYBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.2</title>
             <pubDate>Fri, 24 Nov 2023 21:51:44 +0700</pubDate>
             <sparkle:version>35</sparkle:version>
