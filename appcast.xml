@@ -3,6 +3,40 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.8.5</title>
+            <pubDate>Thu, 14 Dec 2023 00:25:10 +0700</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.8.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.8.5: Support Google PaLM 2 with Gemini models, Google Vertex AI and Cohere models</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Support Google PaLM 2 with Gemini Pro and Gemini Vision Pro models added.</li>
+    <li>Added support for Google Vertex AI models. Vertex Gemini Pro and Vertex Gemini Vision Pro are coming in next days.</li>
+    <li>Cohere models now supported.</li>
+    <li>Added feature to edit messages.</li>
+    <li>Added feature to fork messages to new conversation</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Updated keyboard shortcuts for toolbar buttons.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Fixed issue calling wrong API for Azure OpenAI models.</li>
+    <li>Fixed issue showing both main window and settings window when pressing Show Window button on menu bar.</li>
+    <li></li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.5/MindMac_1.8.5.zip" length="17481386" type="application/octet-stream" sparkle:edSignature="bix0I0moAYm2gNT+1GE06Yb0eIZQu5j4bSsCo5OsEWY0897RAgiN6C+wXE2Nmkzqdt3fqKT1gLpKQfEQQlR3CQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.5/MindMac37-36.delta" sparkle:deltaFrom="36" length="2523494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="5I3wB/wEETpAzNIdzEPfDrgSqDv1fVhcImSj94RMnbVTabLAlWUNWZte03aAvB45J+o+wSRjWxfgGQAVIU7DDQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.5/MindMac37-35.delta" sparkle:deltaFrom="35" length="2842974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="/dLk17V2VRzvWQw7vmK0Aq2w0vRQSdp/0Cdzi3kfazlQSwoMnBNfirM+3j9T25FXj16x6mEWj5UO0djiLQS1Dw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.5/MindMac37-34.delta" sparkle:deltaFrom="34" length="3673966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="EkEOejJUBbKgQJpbeKroo1zQqJAXgbhMJVFKmqgAGiC1PFDqvGqrOML7enJEgmgSvdEOxikTAsy8T75RpR28AA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.5/MindMac37-32.delta" sparkle:deltaFrom="32" length="4343222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="GvHyPh9sBR1BV7Jang2BITEY/q64pUtylg+uJ8C8fBz9z1kGMubBLTuHP/csaModQckgwwUN30WCWv+vcdSrAg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.5/MindMac37-30.delta" sparkle:deltaFrom="30" length="4388882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="+5hMglpFOV1p+/JWi1tWVvmSWGNHfBVo2OnaChY05Zf+CKErUJSTr/GsHTVe9amurPvsKfDgptauOdriX6h4Bw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.3</title>
             <pubDate>Tue, 05 Dec 2023 23:04:18 +0700</pubDate>
             <sparkle:version>36</sparkle:version>
