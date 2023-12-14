@@ -3,6 +3,31 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.8.6</title>
+            <pubDate>Thu, 14 Dec 2023 13:31:37 +0700</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.8.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.8.6: Improve multiturn requests for Google PaLM 2 Gemini models & fix crash bugs</h1>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Handled multiturn requests better for Google PaLM 2 Gemini models.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Resolved crashing issue when switching to GPT-4-Vision model in certain scenarios.</li>
+    <li>Resolved crashing issue occurring during the first app launch on specific devices.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.6/MindMac_1.8.6.zip" length="17480310" type="application/octet-stream" sparkle:edSignature="uCsGIrlm+sRkGIlQeULV3/l8bzhZp2ufDR9Or/fziybU9XoWj/eSbuuPuw3L6w2uqWjcAUGN209oJ7BnM+w7Dw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.6/MindMac38-37.delta" sparkle:deltaFrom="37" length="986754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="4KC4FPBhs9/EQ4inAdPvBiJ1EgLEn7D10U3J8mhYGpdh1ZF+rYWKT1qIV1iyjFin9XzjOljpL6r3Y0Gh2pe4CA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.6/MindMac38-36.delta" sparkle:deltaFrom="36" length="2503074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="jtUBy2djCZz2nQiawGBM69OMfSuISv5DgjyGl0c75h9ZHZrtq/jRKAqKTygSRNDLcQfCrWiJK5zQ6HNWs1ZdBQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.6/MindMac38-35.delta" sparkle:deltaFrom="35" length="2845530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="MwAkVC8c0ZO3z/t96+w9c0xJV1gGetQRrAxFx8KjBc7npqB4Wj68z4tlRSk+/EK7KsI1Jpo5oMBugT++THLwDg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.6/MindMac38-34.delta" sparkle:deltaFrom="34" length="3677730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="w2brxE8JGr77hXojCsOvtL8lCkBT7o/3E3kgC2JT7X++cuKxVVP5UJB+GBNdu7hpWKLxhfw3BGhW5dc4YS8uCg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.6/MindMac38-32.delta" sparkle:deltaFrom="32" length="4326838" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="SGP0Y/nnbMIM4pQ70hWK5fhMigkqErrK5TwzNL7biQroGRqnl7mPmJmXy+KtO4zATMt35M0T5zEUANvkf0xpAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.5</title>
             <pubDate>Thu, 14 Dec 2023 00:25:10 +0700</pubDate>
             <sparkle:version>37</sparkle:version>
