@@ -3,6 +3,31 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.8.8</title>
+            <pubDate>Fri, 22 Dec 2023 23:22:03 +0700</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.8.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.8.8: Update OpenRouter models & clear all chats</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Added button to clear all chats and folders quickly.</li>
+    <li>Implemented feature to refresh OpenRouter model list.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Improved performance when opening the model list of a specific API endpoint.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.8/MindMac_1.8.8.zip" length="19640665" type="application/octet-stream" sparkle:edSignature="bSd0X99D93/vUv36b4fDo6Q5Thmp5lKcLL9bKp+2W5aXGoV6oorjIN7dVifNGF7qug/bNQG2VkQCdYSMI7LJDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.8/MindMac42-41.delta" sparkle:deltaFrom="41" length="2236486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Pd4n/VaKmZ7Vhco1jU+Tp8n8Fb7A/Df6Gu0wbp/dYoRmAQj3gZ6gyb+Ko/MPNU7nZ5Zk/1RcQQ8g04r79NeZBQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.8/MindMac42-38.delta" sparkle:deltaFrom="38" length="4358186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="zKzDRD9FPBWctdEy0Y6OakWV209Mt4Jtpd/WsdFj8ak/iq0yScqQQ3CABKD/+o2FUSAxtbWK60EYrykVZjhLAg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.8/MindMac42-37.delta" sparkle:deltaFrom="37" length="4349326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="A0HzUW/jeoY9HVOUGai72ogu+oiVAPj4HD5Whnh28ydcj5EEYq1D2eGmYuNXdyvtXa29Qk0AjWQT7gPxtJj2CA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.8/MindMac42-36.delta" sparkle:deltaFrom="36" length="4837170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xfOLSN0igvs4jDoHDJFFzrgzSJshN15r7WXuycN3u1gMpXu3lIMQkfEA6/9Lahd8uYcmrtgPxP0/Ne/MZjxdCw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.8/MindMac42-35.delta" sparkle:deltaFrom="35" length="5148534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yKLikvL/cGJyqcY97b9Roo8HNb+73265foWTHZfems7ol4UhKtYLdFiiRG2W5TZGoDDv3lexyToOL4aM0d9sBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.7</title>
             <pubDate>Mon, 18 Dec 2023 10:04:19 +0700</pubDate>
             <sparkle:version>41</sparkle:version>
