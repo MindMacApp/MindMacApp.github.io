@@ -3,6 +3,26 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.8.10</title>
+            <pubDate>Thu, 11 Jan 2024 19:07:58 +0700</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>1.8.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.8.10: Support Ollama</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Added full support for Ollama. Now you can use Ollama without LiteLLM.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.10/MindMac_1.8.10.zip" length="21847722" type="application/octet-stream" sparkle:edSignature="b7Cb2lcU2LVYhQGBF6rjZirpiAYyV7NsjmXMTDFnVh2DDWPfX5wXdCN6ocaD+E0LC4nWwusPmEMgygK88UcOBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.10/MindMac44-43.delta" sparkle:deltaFrom="43" length="2132494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="5gwUbFgDQWccX51Upefq7ULIVUGIgzd1KI/WiD+WQiMd84yUvFsj++2NItX4X71qR9FWHCfJfw+EdBtDdp/2Dw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.10/MindMac44-42.delta" sparkle:deltaFrom="42" length="4791494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="IAMQNa03s4pqiNUt1q2nw1c0y7wmzdzK5QLqWCpYUivCiN/j2kYwNVY1IXk5J9AwCQQOUlOXsEZX39vsT0xzBw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.10/MindMac44-41.delta" sparkle:deltaFrom="41" length="4920986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="6zY+p+3/KWkbrp+Y0mtIkZn21PAq7YvUa0IEMyEoz/fPDfBfRpsPtbuJASJCN9ZJ72t+3IPHzvfeMPdCDVYZCg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.10/MindMac44-38.delta" sparkle:deltaFrom="38" length="6794526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="WqSYd4UWS7fD+uvrNomm/pcAKE1vGRZ7GE3RMopuhlyfpMrnAHkkIZRmfjomWTheMtk/m5ZzIWHeKRs1SelTDg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.10/MindMac44-37.delta" sparkle:deltaFrom="37" length="6816026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="c3+Tmb9HslIxnpBl1+CAdxYPSKW0QHdI4wNs/uQzWcCMMBqjmz+eEVGLLhKutSthuX0FzzPEJm0CPEMc+VQMCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.9</title>
             <pubDate>Tue, 09 Jan 2024 23:46:12 +0700</pubDate>
             <sparkle:version>43</sparkle:version>
