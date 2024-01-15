@@ -3,6 +3,39 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.8.13</title>
+            <pubDate>Mon, 15 Jan 2024 23:38:13 +0700</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>1.8.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.8.13: Support Together AI, some improvements and bug fixes</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Introduced support for Together AI.</li>
+    <li>Added an option to toggle the unread notification feature.</li>
+    <li>Included select all and deselect all buttons in the model management view.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Updated OpenAI latest models.</li>
+    <li>Updated Mistral AI logic to align with API changes.</li>
+    <li>Made the width of the right sidebar persistent even after restarting the application.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Fixed a crash issue that occurred when adding Ollama as the first API endpoint.</li>
+    <li>Resolved a crash issue that occurred when attempting to open prompts and occupation template lists when the keyboard shortcut was not functioning.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.13/MindMac_1.8.13.zip" length="21923291" type="application/octet-stream" sparkle:edSignature="TViz2wNk5LsMi5dN/CdaK97UxoAlZtByfk739qKeE5pF0PUVTVddrDnsB3psFIyK0swK+JtWt1yOlYQDusIVBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.13/MindMac48-47.delta" sparkle:deltaFrom="47" length="2563702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ZLw/lSfaThkhU0fKxg9eETOIxkCDDhT8TdKBkAIZsSJgiuGEh64pRIc0wX537EjjicBUtcsusxpafqqthjp5CQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.13/MindMac48-46.delta" sparkle:deltaFrom="46" length="2595970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="eJAAhcrJyGgg40McejKqX2qh5mPEovjV78l91+uq5gaxfaDtSouQhblq35eHTEecQ1xKxY3uDuArfaa/P/2fCA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.13/MindMac48-44.delta" sparkle:deltaFrom="44" length="2617946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="hV2AjGG68RFPpXoS5WF2p2AUOpfGcEEpc7S6aP1ajXTLmcQNd84l7uDQ1EzbcWhd1SFzbgYu93d/pq2NyEimCQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.13/MindMac48-43.delta" sparkle:deltaFrom="43" length="2727306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="eyktPc7Ljxmut2N3IUNNZqoPrVZ4m9HXMwI6nGmjo+pOXkdodQ9qBOyRpmfVcLidvsP+mGRDhai4R+cwHrNgAA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.13/MindMac48-42.delta" sparkle:deltaFrom="42" length="4961954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Zs8WFcr4mB0XbJqPigTyiaQvtMv8KLRUA7k0lsfhFZ6HEFyfzZcJ/FP4ss/qlu9gKfK53M9jnkkuZMeWTqE8Bg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.12</title>
             <pubDate>Fri, 12 Jan 2024 23:18:24 +0700</pubDate>
             <sparkle:version>47</sparkle:version>
