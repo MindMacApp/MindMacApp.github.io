@@ -3,6 +3,31 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.8.14</title>
+            <pubDate>Wed, 17 Jan 2024 00:40:32 +0700</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>1.8.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.8.14: Ollama improvements</h1>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Eliminate the need to provide an API key when adding a new Ollama endpoint.</li>
+    <li>Remove Ollama model from the list if it is not running upon refreshing the model list. </li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Fixed a crash issue that occurred when adding new endpoint in several specific cases.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.14/MindMac_1.8.14.zip" length="21938513" type="application/octet-stream" sparkle:edSignature="4x5IZ2WH2ttqOuIW8LwYfpN8yt5Hk0hZoTx7/lZnwy7z7hlOYk9nT4g3rOF9mGjeqAgx6IOL/mTxZRR4dJVBBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.14/MindMac51-48.delta" sparkle:deltaFrom="48" length="1757814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Lx49nrMwTj5QHnkMcxT0bguSBpKF5pFYKnsm8r6CG9pgJmvXELRgdILEz6yjVdyRrTWmmWZCBQ59qeZZkZjAAg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.14/MindMac51-47.delta" sparkle:deltaFrom="47" length="2641402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="5ZN8xPsQakFjgJvJc5X1dFLqlR68oJbRX+M0h7balixylriRPqdnSC+HJLwb0vTL9SlLq/yZM2TzM9n95HXPCg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.14/MindMac51-46.delta" sparkle:deltaFrom="46" length="2672070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="+lK1g5ttjmT6nMMQKJ0Qf112ZqaJUdqk3nSpbSaLRTwFxhYQlmJeorKAIW/31t3oSQwC4QMxDMmyCnBqsGvaCw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.14/MindMac51-44.delta" sparkle:deltaFrom="44" length="2688598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="O6u255yoAtHh+PHSNbQfRZ8lOgTK6dVHgQXZlrm8RYzdUf1ylQh5YZUycPZ4xSX+mppKErfLXO3XmO2K28mEAw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.14/MindMac51-43.delta" sparkle:deltaFrom="43" length="2783606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="o3TX3lnm8uXMG3vQ5UO14s6yHLpy8gJt4/jqBnupYLpdLBfWcB5t62KwTbK2i3lHr9umMr8AiY7leUmWC5CVBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.13</title>
             <pubDate>Mon, 15 Jan 2024 23:38:13 +0700</pubDate>
             <sparkle:version>48</sparkle:version>
