@@ -3,6 +3,27 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.8.17</title>
+            <pubDate>Wed, 24 Jan 2024 20:38:40 +0700</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>1.8.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.8.17: Fix crash bug when initializing data at the first launch</h1>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Fixed a bug that caused the app to crash for certain users when initializing data during the initial launch.</li>
+    <li>Resolved an issue where incorrect prompt templates and occupations were displayed when switching between default data and user-input data.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.17/MindMac_1.8.17.zip" length="22242337" type="application/octet-stream" sparkle:edSignature="Uv2FK6kYvou3o+Drf+/OyP6vdcAhi0nOhvwFWFvnJffKHc2Mq7X+NsqLPoA0BS4JAN4YKwPXiBkV76idoOFvCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.17/MindMac57-55.delta" sparkle:deltaFrom="55" length="1845266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="3XolbHIGOPefluBuz+BbyhUpUUcHOAo83svpeAwSqROYLFNCHXf2+XsjRIGZfw6tiLaxdkuLBTLbE8KU/5c7DQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.17/MindMac57-51.delta" sparkle:deltaFrom="51" length="3222666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="1WRVT4gbPR28JLAQJYiY6PU9m6DQlFDiZuk52uzM6IJrUK+OZmsekHaonMxxWd6buv21/X1gr5MfjRZv9ollDA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.17/MindMac57-48.delta" sparkle:deltaFrom="48" length="3281418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="t07bx24LnITEnx3u0MlKmXlSiSEGazXhXV8ls0JbLmg+xyKljgk2evD2W5rUAZ87VqRFHn5qupjWvuVKxHNzDQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.17/MindMac57-47.delta" sparkle:deltaFrom="47" length="3578466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="mYDXrigJ9Mrh0u8K6YBLm/WTL6ehxG5jcfMtUR2/oIIvLrrx6/r84GL77zs08OqbkdVMsL5VGwF4f9opY+joBw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.17/MindMac57-46.delta" sparkle:deltaFrom="46" length="3599482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="B+vwL/wyC6/D1eTF1qo3Fn24qGGBHSEzUu5zzov1gZahqMXmHja/fzFqQYqiPBaSWVSO4q8VKKKFR+r3CH9PDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.15</title>
             <pubDate>Tue, 23 Jan 2024 22:53:44 +0700</pubDate>
             <sparkle:version>55</sparkle:version>
