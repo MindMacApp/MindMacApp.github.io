@@ -3,6 +3,40 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.8.20</title>
+            <pubDate>Sat, 03 Feb 2024 00:13:11 +0700</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>1.8.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.8.20: Overall app performance improvement & image vision for Ollama LLaVA</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Enhanced overall app performance to provide a smoother user experience, including improved scrolling, faster search functionality, and seamless conversation switching.</li>
+    <li>Added new OpenAI models: gpt-4-0125-preview, gpt-4-turbo-preview, and gpt-3.5-turbo-0125.</li>
+    <li>Added a new Perplexity model: mixtral-8x7b-instruct.</li>
+    <li>Introduced a quick action Diagram feature, enabling users to generate diagrams swiftly.</li>
+    <li>Modified the left sidebar to remember the last state it was in when reopening the app, ensuring a seamless user experience.</li>
+    <li>Introduced an add button to the left sidebar, which appears when it is narrow, allowing users to create new conversations or folders conveniently.</li>
+    <li>Enabled image vision support for the Ollama LLaVA model, allowing users to upload images and ask something about them using local model via Ollama.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Disabled the unread notification feature by default to prevent unnecessary notifications.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Resolved the issue causing crashes when moving files into folders.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.20/MindMac_1.8.20.zip" length="22582214" type="application/octet-stream" sparkle:edSignature="EcUuMbgathRZRmhJqMeaDAfOVqAR18LYjLDHONcZRycYbGHG7N1Qxg98FnTHlXP4CuaaB+8fV9TgqWNZPLiRBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.20/MindMac60-57.delta" sparkle:deltaFrom="57" length="3858198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Krm+UmonGsQn3XU86X9PY7EddEj0OuBvEsUHrStYZVOPJP/85Knz6XOP15DjRWFKoLjd4lWoJLkT4OgvFO5DBw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.20/MindMac60-55.delta" sparkle:deltaFrom="55" length="4008374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="KEAus2eGu1eugoAgfLXqupq/8fc/pWwLN0SRk3D9Q5C/H9RSrRCxmJ0fh9ANB8s6/L0zRN+TJqLZrNDAHJiUBg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.20/MindMac60-51.delta" sparkle:deltaFrom="51" length="4469646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="fYhLbRf/c5PT+iXx7N3n2lVNqgGmZYOrAjHJ4glfzhaF9aK20tyzEE/JpYcs+lBgv8PlfklV4iNg8KTdPi/bAA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.20/MindMac60-48.delta" sparkle:deltaFrom="48" length="4507322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="PozixEAOJeg+shybhuaam9qQBEyzV1tJZWJbo2UNWXnVFgJ82C48M0ih2mauLeRp9is1fAnoDoV5dQBvJsZeCQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.20/MindMac60-47.delta" sparkle:deltaFrom="47" length="4707350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="2Uo1DgNFBrM36i2qzhmdw7+bbI3yS4zjq0zNfmG9co9fAd6EKbmtsXB8Plw+TIb5urb7xXm8b0cX3vjqSLQGDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.17</title>
             <pubDate>Wed, 24 Jan 2024 20:38:40 +0700</pubDate>
             <sparkle:version>57</sparkle:version>
