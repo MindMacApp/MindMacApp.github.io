@@ -3,6 +3,30 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.8.22</title>
+            <pubDate>Fri, 16 Feb 2024 01:21:23 +0700</pubDate>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:shortVersionString>1.8.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.8.22: Bug fixes</h1>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Resolved crashing problem when attempting to delete user messages or conversations while receiving streaming response.</li>
+    <li>Fixed crashing problem during the cleanup process of conversations when launch the app.</li>
+    <li>Addressed an issue where certain specific cases were causing blank fields to appear on the right sidebar.</li>
+    <li>Fixed a problem where the message view would scroll up and down immediately after completing a streaming response.</li>
+    <li>Corrected an issue where the summary line would display the incorrect context mode when switching between conversation and global profile.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.22/MindMac_1.8.22.zip" length="22604163" type="application/octet-stream" sparkle:edSignature="gPpYkTQf+/E7/Ocqw0qtsTZZVUSh/dr1tQmVFvZf4ruobFivcPg1S9lf2CVjSn5i/myxV3wK1YHw0mAVamD2BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.22/MindMac62-60.delta" sparkle:deltaFrom="60" length="2080250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="L+ycA9ZSeJGI1AJ0+g6J0M9PqNLM5oKTZw547ETGvnO18YCTr2G2SA0MmB+3eChSnS+aY3T+qx20SYMexSDeDw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.22/MindMac62-57.delta" sparkle:deltaFrom="57" length="3919658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="gu/j6owTSZ7X8ZcLzFw7ykC1nZYcpbW9Un30I13PWgJl/ap0q+ilRVjDW372GmlMinGLImVa84qT3ah1gNUrCw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.22/MindMac62-55.delta" sparkle:deltaFrom="55" length="4048194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="AzhFHOya4DpZq2EcmkJUar/51X1r9ji/rgbsYrpTsJQnBixknQJFMjJTffkcusep3Txa8E4Gk9PrOcMrmnNNBQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.22/MindMac62-51.delta" sparkle:deltaFrom="51" length="4465414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="5TLqkjtFjH8YR16dUvIlJsfPEkXkK9LtpY6AcRyaEVea/OcNHB59/LWPQqP1sDejD1zSwFBgAYM8luwZhmJ+AQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.8.22/MindMac62-48.delta" sparkle:deltaFrom="48" length="4518322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="H9ZKzZ/0BjEE1xPUj9qc1QkNFxypLuRo+m8AHWdUFyt0xJ1HvkmgjwAn1Ol37xl0hyvLaMwE+rAY8b9AdVqJBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.20</title>
             <pubDate>Sat, 03 Feb 2024 00:13:11 +0700</pubDate>
             <sparkle:version>60</sparkle:version>
