@@ -3,6 +3,42 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.9.3</title>
+            <pubDate>Mon, 25 Mar 2024 22:11:54 +0700</pubDate>
+            <sparkle:version>72</sparkle:version>
+            <sparkle:shortVersionString>1.9.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.9.3: Support Kagi Search, Claude 3 Haiku, Anyscale, MLX and other improvements</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Added Claude 3 Haiku model.</li>
+    <li>Added support for image upload for Claude 3 models.</li>
+    <li>Implemented support for Anyscale models.</li>
+    <li>Introduced support for Kagi Search, enabling Internet browsing directly from the platform.</li>
+    <li>Added support for MLX. Users can now easily connect to a MindMac by starting an MLX server or PicoMLXServer.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Improved citation in file upload feature.</li>
+    <li>Improved performance when receiving response in stream mode.</li>
+    <li>The model dropdown list has been updated to hide embedding models for a cleaner interface.</li>
+    <li>Modified the default keyboard shortcut to activate "Bring MindMac to front" from Control + Space to Shift + Control + Space.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Enabled plain HTTP connection for local network.</li>
+    <li>The platform now remembers the editing prompt when users switch between conversations.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.3/MindMac_1.9.3.zip" length="23367937" type="application/octet-stream" sparkle:edSignature="CBrgAFtJRnnOk27LinyFiolP0DqXgEbin1pcwvXajuwn4IrZp9JBVsDeTOOcXbdCSw27NPUs6fwcjRLVOVRLDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.3/MindMac72-69.delta" sparkle:deltaFrom="69" length="2604794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="dIHIxL4bn6qnfBIAxA4izXYgK2GUbg+QvV0fbc9/fxUEaJMLVPc+C1tN+AUsMS915emaQCvECbujdK+WAIlZAA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.3/MindMac72-66.delta" sparkle:deltaFrom="66" length="3562446" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="UWqROV+FKaid+uuhspZAGpsuo8rtgK7tPFMhYxzg/V4uVY4PVwTsn+k/fzf2EokTkJZX3zhDIAH8T3zvljXACQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.3/MindMac72-62.delta" sparkle:deltaFrom="62" length="3976598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="iq49Xlkgj5V3z/0BfYdVaX1m8i7QwqQnkTfDqn1sJCERSGLa+8B4AHyGN7N65xp4nh7AYc+tohv0k9dOwgTFAg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.3/MindMac72-60.delta" sparkle:deltaFrom="60" length="4054410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yxZJ7znfOu38j7WdAzLfLMHR6HPIGMkXlALmeP9grCsfcZAr5V5pBK8PcM3Ok+b/eLHRsjrX0eqsqlu1/SLaDQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.3/MindMac72-57.delta" sparkle:deltaFrom="57" length="5152002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Sh/a6ybTDHiNJsfWAIj1ylfADiCrfZdySa70GXFvTpLMxI4jWTAxse7sG92p3IF3HaooKN1Ji70n4MQNyvL3BQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.9.0</title>
             <pubDate>Wed, 06 Mar 2024 23:38:51 +0700</pubDate>
             <sparkle:version>69</sparkle:version>
