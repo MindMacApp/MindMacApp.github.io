@@ -3,6 +3,36 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.9.5</title>
+            <pubDate>Fri, 29 Mar 2024 23:13:41 +0700</pubDate>
+            <sparkle:version>74</sparkle:version>
+            <sparkle:shortVersionString>1.9.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.9.5: Support Gemini 1.5 Pro, Gemini Ultra, llama.cpp and other improvements</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Added native support for llama.cpp.</li>
+    <li>Introduced Gemini 1.5 Pro and Gemini Ultra models.</li>
+    <li>Integrated Anthropic Claude 3 models into Vertex AI.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Implemented cost display for Claude 3 models in stream mode.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Resolved errors occurring when using Claude 3 models.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.5/MindMac_1.9.5.zip" length="23430844" type="application/octet-stream" sparkle:edSignature="8DPQF3lQecbTLbuUe3Rrs32rbMwTIRZMxg5q5miueR7ouiD7S1nvp/73Kde5D6+lnKy/BpvalKc78ZazAA0yBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.5/MindMac74-72.delta" sparkle:deltaFrom="72" length="2361670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xeWsrGYglAIgQyLksY6vnyb88BHAsxL92kzJ7aSsGfy897+Ng4qkHEmUc52RHeIpR/m3AfS5ULV/NAIzMHSwAA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.5/MindMac74-69.delta" sparkle:deltaFrom="69" length="2759254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="KqUm7AVIVbZZ3d6L3+XfYhrcBNMuGl+C1CVlf3/3VrgRR5VIxpXZcCm/oFhkfF3tXW6OHRlvovxZ2RimsqOxAQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.5/MindMac74-66.delta" sparkle:deltaFrom="66" length="3632310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="PEYV62/SGW4oMRrxr73RgUNZuaB7xoJqBY4dMeJXl5xhOVA1jpDBijmM3slvMJwII1S/jfJDPk3L0f1BrxxQCg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.5/MindMac74-62.delta" sparkle:deltaFrom="62" length="4048942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="tb4WrcBoQ6+RNwIfAoqCTK1zMvlL5VfeW2f/Y0QrPfkEiUoU2DpcQcXtZgltMIksuaI7XEbcjRuIMdyVVZrsBg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.5/MindMac74-60.delta" sparkle:deltaFrom="60" length="4137062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="i7Sxrodrqq2mQqLwEQyh18h7xvVjDzkXf2gDc5DtkC9t+sdt0FEGLkfhdPHMUXTCFw14DzYQSPCm4hnw8moyBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.9.3</title>
             <pubDate>Mon, 25 Mar 2024 22:11:54 +0700</pubDate>
             <sparkle:version>72</sparkle:version>
