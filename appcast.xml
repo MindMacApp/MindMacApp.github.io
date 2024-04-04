@@ -3,6 +3,32 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.9.7</title>
+            <pubDate>Fri, 05 Apr 2024 00:30:16 +0700</pubDate>
+            <sparkle:version>76</sparkle:version>
+            <sparkle:shortVersionString>1.9.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.9.7: Support Brave Search, Cohere Command R & Command R+ models</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Introduced Command R & Command R+ models for Cohere.</li>
+    <li>Added support for Brave Search for Internet Browsing.</li>
+    <li>Integrated support for KeyMateAI Google Browse Assistant API.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Removed unnecessary quick text shortcuts for accessing prompt template list and occupation list.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.7/MindMac_1.9.7.zip" length="23505351" type="application/octet-stream" sparkle:edSignature="166RQDmHUYo5zAHvjaJfAh8kG80qzuUnk+a4WJE4ToDbYabO/6se7UhnUV6OPCqE1qYR5daXjMPkJ5UAlA1NDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.7/MindMac76-74.delta" sparkle:deltaFrom="74" length="2091978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="aT+hT5nYYDlgw38Kwwh+vEc+H2lre1B0nNVGBf/mhb692dtvX3MZcy6vbBvcjsbsy3YDBT4JkCO20rGnuIMFCw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.7/MindMac76-72.delta" sparkle:deltaFrom="72" length="2567974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="8coJ6+ZkY1/1T0tbdGL2tSyJXFGAZjJy0EXeyJVZjYr8wIqFKk7ZTB9OLL8ldKYebEC4P1JvOl8UbK/bCULxBQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.7/MindMac76-69.delta" sparkle:deltaFrom="69" length="2892722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="OBeboWvemVxR7um1fvXPfEKm0ydCWGv5OrUe8xuiF6XEsPH5S8klkF6dWX7nhJPti3lsdIo3xxJp08EWVrAhCg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.7/MindMac76-66.delta" sparkle:deltaFrom="66" length="3737742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="bDhXksL9BjJob6ijmgpq4Ee7s0RSDmiE6JAucRWbfEFxwzwsOwslBueBVpAG2t1sTMcjm7qXrcrIyGTHOBlICw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.7/MindMac76-62.delta" sparkle:deltaFrom="62" length="4149706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="plRhN13dPj7evs3E7Mp+4yXO4aEC3C7F7mwpKi65kGTk5ncNGMsAI44/jRoXOP/uVTRfEDWBngRJWU349QhaAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.9.5</title>
             <pubDate>Fri, 29 Mar 2024 23:13:41 +0700</pubDate>
             <sparkle:version>74</sparkle:version>
