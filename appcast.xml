@@ -3,6 +3,32 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.9.8</title>
+            <pubDate>Thu, 11 Apr 2024 19:58:53 +0700</pubDate>
+            <sparkle:version>77</sparkle:version>
+            <sparkle:shortVersionString>1.9.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.9.8: Search improvement, OpenAI GPT-4-Turbo & Gemini 1.5 Pro for Google Vertex AI</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Introduced GPT-4-Turbo model from OpenAI.</li>
+    <li>Integrated the Gemini 1.5 Pro model for Vertex AI users.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Enhanced search functionality now allows for content search across all conversations.</li>
+    <li>Updated the MindMac icon in the message view to reflect the icon selected in app settings.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.8/MindMac_1.9.8.zip" length="25242693" type="application/octet-stream" sparkle:edSignature="iLcz0gljCiZ+O+WeK23RMF8Ob20RUX6VXR43jTeBCCE9GzTaBlMBKPWPtP3kMrM0GJ31r2KGQNhbylWXaCBFDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.8/MindMac77-76.delta" sparkle:deltaFrom="76" length="4594010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="gGUhD6dQrkgLD5n301A//q4fHUMpoirOGlNfUX4XU/t7tiERpUMP4YkfHEnimI73u/UKmmXPnK573N/ijV5TBA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.8/MindMac77-74.delta" sparkle:deltaFrom="74" length="4750270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="24VC0pY6EWOJDTmhyPBAFhZ84ECMJGVRetI1IEUSM5F2+J3L5HmirJM3KrQR32XlZhZ5zLmdfil4MZidQYe2Aw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.8/MindMac77-72.delta" sparkle:deltaFrom="72" length="4835166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="C5VWNu09MqtWmrBNW6kKIxnq2OJPlrv825j0nDN2PQxC3/FhqlK1THugd2a6EXhEBMETYiL64GUOdvedgxzBDw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.8/MindMac77-69.delta" sparkle:deltaFrom="69" length="4971838" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="jsdJQooGrazy73BSr0uiMDOnuKoW/dhXTej8mMh74KL2FmAs6BsnBQ9QlcrR8zD++5F9+OkvX9hAwksDAJ7rCQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.8/MindMac77-66.delta" sparkle:deltaFrom="66" length="5532486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="dsuevZEfrMw1KJVr1bG/xrwPA8f0mcHsqKjrRv1oPYMXzmZeQImOD4eSo4xNbgAlV72CJivzHZgurHR3VK6fAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.9.7</title>
             <pubDate>Fri, 05 Apr 2024 00:30:16 +0700</pubDate>
             <sparkle:version>76</sparkle:version>
