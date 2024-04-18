@@ -3,6 +3,38 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.9.11</title>
+            <pubDate>Thu, 18 Apr 2024 23:55:10 +0700</pubDate>
+            <sparkle:version>80</sparkle:version>
+            <sparkle:shortVersionString>1.9.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.9.11: Document upload capabilities improvements and other fixes</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Added custom model field for Ollama when creating new endpoint.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Updated model name for Cohere Command R+.</li>
+    <li>Included service logos next to each answer from AI.</li>
+    <li>Enhanced document upload capabilities, specifically for Excel and CSV file formats.</li>
+    <li>More detailed error messages now shown for Vertex Claude 3 models.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Resolved a bug causing crashes during document uploads.</li>
+    <li>Addressed a crash that occurred during the cleanup of conversations for certain users.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.11/MindMac_1.9.11.zip" length="26027332" type="application/octet-stream" sparkle:edSignature="H4FPO7QhfARsOQ4kIJGiBQzzGVpFeIo9/A4hK52NHrd+SewFDtUfbbLrKv3Jy45I6hVeTPuTGstvjGI6hkOaAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.11/MindMac80-77.delta" sparkle:deltaFrom="77" length="3423954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nuRG1zGXNHlo41l+glkgyB2uKM1pkJWVteCp20Jkt5OzF5VqNsRGEIzPhJqGksQe6y0CoEUtjcEoCW66TW8fCw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.11/MindMac80-76.delta" sparkle:deltaFrom="76" length="5438074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="rZAgM28PyVQOr1E5xsGIqrV2+MhPRs4QBoSrhvDudZJN7+hgJF+p/RA1DSx45dH3TuvfRpnzA8DFLR1TxWhyAQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.11/MindMac80-74.delta" sparkle:deltaFrom="74" length="5571282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yFnLRr8ST4qEnTv5Qf2e85erJncP1ZEDdOkQnHaMkZqMTOKOzwsiJF+W7NNSi+VMEHaoIWDxOIFfzwgFIUaICA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.11/MindMac80-72.delta" sparkle:deltaFrom="72" length="5688458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xE9imNB/hqnLb1jD6QRCL7YMCsOy95v1yfyGu+lp+0qxbzeMEUoZRPc+xQmXnCaXC17jFJBuLvtgp/sDHVgSCA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.11/MindMac80-69.delta" sparkle:deltaFrom="69" length="5833994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="GU3gKPvBNHwcx07bGSpJE4j2549w9JqfqJV61PfAhxn0ebx+LVc1cSak35KHbpS7y5LquZNitlVU932dTmFDAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.9.8</title>
             <pubDate>Thu, 11 Apr 2024 19:58:53 +0700</pubDate>
             <sparkle:version>77</sparkle:version>
