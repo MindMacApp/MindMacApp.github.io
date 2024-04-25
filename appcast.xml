@@ -3,6 +3,38 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.9.13</title>
+            <pubDate>Thu, 25 Apr 2024 22:01:01 +0700</pubDate>
+            <sparkle:version>82</sparkle:version>
+            <sparkle:shortVersionString>1.9.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.9.13: Performance improvements, Llama 3 on Groq and Perplexity</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Added support for Llama 3 models on Groq and Perplexity.</li>
+    <li>Introduced support for LaTeX formatting.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Optimized overall application performance, including improved scrolling, better handling of long messages, and simplified multi-paragraph selection for copying.</li>
+    <li>Disabled network proxy when using local inference sources such as Ollama, LMStudio, MLX.</li>
+    <li>Transitioned explanatory messages to popover form in specific settings fields.</li>
+    <li>Enhanced user interface for the main message view.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Resolved problems preventing some users from utilizing Claude 3 models on Vertex AI.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.13/MindMac_1.9.13.zip" length="26677653" type="application/octet-stream" sparkle:edSignature="fgElEXaq3twOx7sqqF/XD4MMIxRacf3umRd4/SuI9CJojz2GcqnF9I2xMu9KAm6zv0k+/1WkGoAyUpcZXEukBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.13/MindMac82-80.delta" sparkle:deltaFrom="80" length="5514642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="QLAe2qgswEK88FEfSFGHgrKxGjJhxt2zpvoouq6qdz8gBkqY4891vzLiwoeFkEg6LlqbCkNHBuFMyTiO/vuQBA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.13/MindMac82-77.delta" sparkle:deltaFrom="77" length="6310582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="lXbyk1p2xdcgcw/IkwgsD+2jcrzOe6BKsqEf4F2oN8Y40B36r4hyhBncMMJVEin228SzaZNDekv0eSXMR2mwDg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.13/MindMac82-76.delta" sparkle:deltaFrom="76" length="8118066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yQf8cF2YyiVCE+Qlm3jsz6KCrfIKGy2WTIni+zqth5XugG2d4cCLEGocyWlVS7K/e2Q4hE99gi3L8nHyBd37AQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.13/MindMac82-74.delta" sparkle:deltaFrom="74" length="8241594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="m/iN/CmC/hRXvj29nAfxw4DLnrbxFIKuaVq+oDnfOV2TkGccIZPH26IMxJzbhyJmrRTTxrez+vebHzZufOi+Ag=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.13/MindMac82-72.delta" sparkle:deltaFrom="72" length="8301638" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="PdoMPUUDu5l8nPFnTC2sG2cHGO/Ht/pO2AtTwRukK2SWThpFvTq73U3Z6nXED3EDp0FFFnUBHcfAijj03xJICg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.9.11</title>
             <pubDate>Thu, 18 Apr 2024 23:55:10 +0700</pubDate>
             <sparkle:version>80</sparkle:version>
