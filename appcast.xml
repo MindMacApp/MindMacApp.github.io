@@ -3,6 +3,43 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.9.16</title>
+            <pubDate>Tue, 14 May 2024 19:30:22 +0700</pubDate>
+            <sparkle:version>85</sparkle:version>
+            <sparkle:shortVersionString>1.9.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.9.16: GPT-4o, audio features & better file upload</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Added support for OpenAI's new flagship GPT-4o model with vision and text capabilities.</li>
+    <li>Introduced DeepSeek models.</li>
+    <li>Added new models while removing deprecated ones for Perplexity.</li>
+    <li>Implemented Speech to Text feature with support from both OpenAI and Apple native capability for prompt input.</li>
+    <li>Added support for Text to Speech, allowing users to choose between OpenAI and Apple's native capability for reading AI responses out loud.</li>
+    <li>Added actions for file upload, allowing audio files to be uploaded for transcription, summarization, translation, and key point extraction.</li>
+    <li>Added support for copying and pasting files (image, audio, document) into prompt editor.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Updated app Settings UI.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Resolved occasional scroll issue causing jumping.</li>
+    <li>Resolved issue of receiving infinite responses from Ollama llama2 model.</li>
+    <li>Addressed problem with stream response not functioning well with Perplexity models.</li>
+    <li>Fixed issue where the message view was being overlapped when the prompt editor grew in size.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.16/MindMac_1.9.16.zip" length="26939080" type="application/octet-stream" sparkle:edSignature="jiVIelpCbXSaSx+Zw/4ggGsTnSrGFd8nwPYBrSLbAUW220WInGvU9lybg86IzpiRxY76QiW8YdPq5XuBsZhnCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.16/MindMac85-83.delta" sparkle:deltaFrom="83" length="8499830" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="1VG51/5ybPDE41qpYOqsc9/MA7yZlKk9iTQe3CKomnJHZw7EyxLke1cR2D9D3UVqeDETRPj/ZjXpbNFjghHCCw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.16/MindMac85-82.delta" sparkle:deltaFrom="82" length="8515894" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="tETAbk7n9jSWQ3L76d5V1pVfhrVe/26Sx1hnGfzvYWbnplhQKNu41KFeuzE8pBzaboSev/yRafj/w60/QRNhDg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.16/MindMac85-80.delta" sparkle:deltaFrom="80" length="10280090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="9jCq0ky1AYY8ZEYWTtGiizTsTNa/YHkke6bgRbm3bKTiRPVKvOh+FWhNuFwTVgztWsbEEml/vGOOd22eVJVUCA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.16/MindMac85-77.delta" sparkle:deltaFrom="77" length="10702746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="uQbofmNaXreVsBQv9RwFdLMyq75Rgr8R/Kg3T3iz0hETJCnV7e3/8yhtjJAxbQBaS0/nfG0WTeBNgEWckgoBDQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.16/MindMac85-76.delta" sparkle:deltaFrom="76" length="12281630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="4c6NlL5Kw5/dhZbR5rBz+ybVwEEe7r14oclyh1EdpT8mxZ7fNcT8aD1f1p3bc8x9ND9JYaNrZ+nYosG0ln9nCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.9.14</title>
             <pubDate>Fri, 26 Apr 2024 22:23:34 +0700</pubDate>
             <sparkle:version>83</sparkle:version>
