@@ -3,6 +3,39 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.9.17</title>
+            <pubDate>Mon, 24 Jun 2024 23:11:55 +0700</pubDate>
+            <sparkle:version>86</sparkle:version>
+            <sparkle:shortVersionString>1.9.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.9.17: Claude 3.5 Sonnet, Gemini 1.5 Flash, Mistral Codestral & some improvements</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Added Gemini 1.5 Flash model and Gemini 1.5 Pro with 2M context length.</li>
+    <li>Introduced Anthropic Claude 3.5 Sonnet and Mistral Codestral models.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">✨ Improved</h3>
+<ul style="margin: 0;">
+    <li>Removed the delete button from the top-left corner to prevent accidental deletion of all conversations.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Fixed performance issue when typing very long prompts.</li>
+    <li>Fixed issue max_tokens is too large when use Anthropic Claude 3 models.</li>
+    <li>Fixed issue where the prompt text was not cleared after being sent to the AI provider.</li>
+    <li>Resolved issue with adding Vertex AI at the us-east5 region. Now, when adding the Vertex us-east5 endpoint, use claude-3-opus@20240229 as the input model.</li>
+    <li>Fixed issue where the system and user roles were not alternating correctly with Perplexity models when the first message was from the assistant and context mode was set to the last 5 messages.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.17/MindMac_1.9.17.zip" length="27194814" type="application/octet-stream" sparkle:edSignature="F1BZ/UVV3vskJp5fHq6wUuxy2h3xLZ4jNqrarcwas2ARDYphwv/n054Q4H5zc/E7/bOWacyDHeZhZJUBOWnUAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.17/MindMac86-85.delta" sparkle:deltaFrom="85" length="4122218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="4uVktVC3ebHpu73eQjb/fSIlEHXXtCyBQMND3LG6EaPj1wn3RGS8rHPKdsSM6RhrG30EH+gZ2OHUmk52r3CHDQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.17/MindMac86-83.delta" sparkle:deltaFrom="83" length="9419342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="3cGh+KRV2qh1XWHSb+6z7Ad2ZPpgZYfvxBA4rB6Qc92P0HT+AnBtfZWAsf+S+xi5BmkLxaJA9iEDxRZ1+hc+DA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.17/MindMac86-82.delta" sparkle:deltaFrom="82" length="9415094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="zppN9VZYKnUIELx/d6yekzQ5GlK1kLTfkGFR7/eqRiX87uPc4OY3g4PdPWQ2skKbiNbHEp5BG8lgF3regRvQAQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.17/MindMac86-80.delta" sparkle:deltaFrom="80" length="11145810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="kJh2/fzMvm0RB+HWl11Yw30jhJfsPGKojehfSwG4NxEmYjbk/3LBcs9REpGg7mHOeaidcthIBAP2O358fbjXBQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.17/MindMac86-77.delta" sparkle:deltaFrom="77" length="11506122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="O+oKyWF01yK+RHgbdfpLemPtjhSF5bkQxHDsulOqIFJu0Zzn9vX0aiGxnYpGi9piOUUK1tGC46SY8wu8/trBBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.9.16</title>
             <pubDate>Tue, 14 May 2024 19:30:22 +0700</pubDate>
             <sparkle:version>85</sparkle:version>
