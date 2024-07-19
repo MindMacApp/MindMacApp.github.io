@@ -3,6 +3,31 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.9.20</title>
+            <pubDate>Fri, 19 Jul 2024 13:37:13 +0700</pubDate>
+            <sparkle:version>89</sparkle:version>
+            <sparkle:shortVersionString>1.9.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.9.20: GPT-4o Mini, Mistral NeMo, Codestral Mamba  & some improvements</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Added support for GPT-4o Mini for OpenAI, includes vision capabilities.</li>
+    <li>Added support for Mistral NeMo & Mistral Codestral Mamba.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Fixed an issue where only the first character of the prompt was submitted when pressing the send button or quick action buttons.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.20/MindMac_1.9.20.zip" length="27229636" type="application/octet-stream" sparkle:edSignature="dO8P+d915D1HGPXbnfNRo1p/5euTirF8WnCFfX8qHcjECi2zCXf83v7457WjFU0VS4Jxt+c11FsX8BrPohzRCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.20/MindMac89-87.delta" sparkle:deltaFrom="87" length="1741018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yPhG6J89FtSQb6cBx9bZKfyZUCoCiIPrSllqLld1JJw63lKQIXA4J/yqs6awDfdZ2QtYIwFo+SzGK1NMwAkWCg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.20/MindMac89-86.delta" sparkle:deltaFrom="86" length="2156126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="acTBQOimGYQ1KG5WtjPOxjB11Osj3u3LKtT/l8vHQtScYSMVT6zaoFzMGuK2jbMdRmR6SCpCsQw34AC1dhi1AQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.20/MindMac89-85.delta" sparkle:deltaFrom="85" length="4263326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="N8Jd4xG23xam33tWcHr2/n1MOcxRCIwTti/SFI4CZCNsIPy6cIMJLeJovqEzRu0I56PE3ISDMp4KpRdZ8uCeBQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.20/MindMac89-83.delta" sparkle:deltaFrom="83" length="9468366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Of//D31+XJGaOCU2/4oODX3kvBYg5oGQvTd27gH9Ek3ByOPgd41by3LVMKXpurIQOS3VaAsUvuw4A3lEkL4aDg=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.20/MindMac89-82.delta" sparkle:deltaFrom="82" length="9483146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="+P2/jnXWAziU927HNe8l+O93sKHV7oWJXD6v/h0oSGw3MwApHukVmqZdBL4MpuNssBQa1CR+O2tZ50dm9l57CA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.9.18</title>
             <pubDate>Tue, 16 Jul 2024 18:59:50 +0700</pubDate>
             <sparkle:version>87</sparkle:version>
