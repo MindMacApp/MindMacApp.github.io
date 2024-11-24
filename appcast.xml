@@ -3,6 +3,37 @@
     <channel>
         <title>MindMac</title>
         <item>
+            <title>1.9.23</title>
+            <pubDate>Sun, 24 Nov 2024 20:56:22 +0700</pubDate>
+            <sparkle:version>92</sparkle:version>
+            <sparkle:shortVersionString>1.9.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>MindMac 1.9.23: New models from OpenAI, GoogleAI, xAI and more; fixed Claude issue</h1>
+<h3 style="margin-bottom: 0.25rem;">🚀 New</h3>
+<ul style="margin: 0;">
+    <li>Added GPT-4o 20241120 for OpenAI.</li>
+    <li>Added Sonar Huge Online (405B) for Perplexity services.</li>
+    <li>Added Ministral (3B, 8B), Pixtral (Large, 12B) for MistralAI services.</li>
+    <li>Added Gemini Flash 1.5 8B (Latest, Stable), Gemini Pro 1.5 Stable (Gemini Pro 1.5 002), Gemini Flash 1.5 Stable (Gemini Flash 1.5 002) for Google Gemini services.</li>
+    <li>Added LLaMA 3.1 70B Specdec, LLaMA 3.2 Preview (1B, 3B), LLaMA 3.2 Vision Preview (11B, 90B) for Groq services.</li>
+    <li>Added Gemini Pro 1.5 002, Gemini Flash 1.5 002, Claude 3.5 Sonnet v2, Claude 3.5 Haiku for Google Vertex AI service.</li>
+    <li>Added Claude 3.5 Sonnet v2, Claude 3.5 Haiku for Anthropic Claude services.</li>
+    <li>Added xAI support with Grok and Grok Vision models.</li>
+</ul>
+<h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+<ul style="margin: 0;">
+    <li>Resolved the problem when adding new Anthropic Claude and Google Vertex AI endpoints.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.23/MindMac_1.9.23.zip" length="26725696" type="application/octet-stream" sparkle:edSignature="bF792nik+4+S9SZX3VQGEmOzRMnb05ewb8Tk/hWpv/OBiVFuJLC9+qMKtC4a5T1etblnbcB//QDi6gX0qTsxBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.23/MindMac92-91.delta" sparkle:deltaFrom="91" length="9714018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="4d8M8OckrBLKmEhIurbh3kPZSXktXOud5xt7ZGnefKR8KaVEBV5mfmopg0hV2eT/EchqLjEBO0I3TCOkklL/CQ=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.23/MindMac92-90.delta" sparkle:deltaFrom="90" length="9735274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Cjvd+mz9hjJDGLXfGaHVVfRyS781wnTzW8XfqXYiB540W82l6q2Ej13OlJV+CRhhPCQvx7+Zk1eQwazF9SijCA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.23/MindMac92-89.delta" sparkle:deltaFrom="89" length="9845078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="SmL+kJUMeMUt5ZGYTzchNvaq9jYKAZipLS7MZGPzMIeARtBURYGG/hUZaQPeg9EkZ1zdbwydsdcIJjg4GrldDA=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.23/MindMac92-87.delta" sparkle:deltaFrom="87" length="9847086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Nv/aKxYjkF/4QYZMxFpG81yBHI9x2fkwoBCZO+aynb/6N3MgHy86au+cLB6mudo+eo4kdwPU40OuAhLkwXwZAw=="/>
+                <enclosure url="https://github.com/MindMacApp/MindMac/releases/download/1.9.23/MindMac92-86.delta" sparkle:deltaFrom="86" length="9869246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="O3K64EcgbeJ31VGT97ddsADTTvGj4/6orJxuNizV9yOq9y+/YHaPbRZzwv9Cd55dRGIWSa5ltMEeQ1ruHFGzCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.9.22</title>
             <pubDate>Tue, 17 Sep 2024 20:01:21 +0700</pubDate>
             <sparkle:version>91</sparkle:version>
